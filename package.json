@@ -1,0 +1,22 @@
+{
+  "name": "com.freyja.utils",
+  "version": "1.0.0",
+  "displayName": "Freyja Utils",
+  "description": "",
+  "unity": "2021.3",
+  "unityRelease": "22f1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "dependencies": {
+    "com.freyja.logger": "1.0.0"
+  },
+  "keywords": [
+    "Utils"
+  ],
+  "author": {
+    "name": "Freyja",
+    "email": "",
+    "url": ""
+  }
+}
